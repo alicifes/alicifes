@@ -1,7 +1,9 @@
+## Hi, 👋  I'm <a href="https://github.com/alicifes" target="_blank">YUXIANG CHEN (Alicifes)</a> 
+
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div> 
-##   I'm <a href="https://github.com/alicifes" target="_blank">YUXIANG CHEN (Alicifes)</a> 
+
  <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 - ❤️ I like  🎸, 🎤, ⌨️, 💻and coding.
@@ -34,16 +36,15 @@
 </div>
 <br/>  
 
-<p align="center">
-  <a href="https://github.com/alicifes" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=alicifes&title_color=333&text_color=777" alt="Charmve's Stats" >
-    <!-- &hide=issues
-    <img src="https://github-readme-stats.vercel.app/api?username=alicifes&hide=issues&title_color=333&text_color=777" alt="Charmve's Stats" >
-    -->
-  </a>
-</p>
 
 
+## Github Stats  
+<table><tr><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=alicifes&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+</td><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicifes&hide_border=true&layout=compact" align="left" style="width: 100%" />
+</td></tr>
+</table>  
 <p align="center">
  &emsp;
   <a href="https://blog.csdn.net/weixin_48041894?spm=1000.2115.3001.5343" target="_blank" alt="CSDN" title="CSDN">
@@ -82,14 +83,6 @@
     <img src="https://badges.pufler.dev/commits/monthly/alicifes?style=flat-square&color=black&logo=github">
   </a>
 </p>
-
-
-<h2></h2>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alicifes)](https://github.com/alicifes/github-readme-stats)
-
-<h2></h2>
-
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 
