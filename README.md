@@ -45,7 +45,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicifes&hide_border=true&layout=compact" align="left" style="width: 100%" />
 </td></tr>
 </table>  
-<p align="center">
+<p align="center" style='background:white'>
  &emsp;
   <a href="https://blog.csdn.net/weixin_48041894?spm=1000.2115.3001.5343" target="_blank" alt="CSDN" title="CSDN">
     <img src="https://img.icons8.com/material/48/000000/csdn.png" width="30px"/>
@@ -83,6 +83,7 @@
     <img src="https://badges.pufler.dev/commits/monthly/alicifes?style=flat-square&color=black&logo=github">
   </a>
 </p>
+
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 
